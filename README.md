@@ -1,6 +1,5 @@
----
 Tech rants and raves and just plain ol' fun.
----
+=======
 
 Blogging should be fun, no ? Well fine if you don't agree then there's
 the door. (just kidding) This little repo will house most all articles
