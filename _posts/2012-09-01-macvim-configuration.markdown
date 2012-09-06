@@ -20,7 +20,7 @@ Typed the following: ``$ export PATH=/Applications:$PATH``
 _this added **/Applications** directory where **mvim** resides into my PATH._
 
 
-**Launch mvim from terminal**
+**Launch mvim from terminal**  
 CD into your directory of choice and initiate mvim by typing ``mvim .``
 
 
