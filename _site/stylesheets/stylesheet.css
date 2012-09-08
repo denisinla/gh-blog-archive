@@ -54,8 +54,7 @@ table {
 body {
   font-size: 0.9em;
   line-height: 1.5; 
-  /*background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;*/
-  background: #f9f9f9;
+  background: #fff;
   font-family: Lato, 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: 300;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
@@ -97,7 +96,8 @@ header h2 {
 }
 
 .inner {
-  width: 620px;
+  /*width: 620px;*/
+  width: 800px;
   margin: 0 auto;
 }
 
@@ -394,3 +394,9 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) {}
+
+/* Related Content */
+.related{
+  margin: 0 auto;
+  width: 620px;
+}

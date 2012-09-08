@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Viki.com simple
+title: Viki.com simple mockup
 ---
 
 ![Viki.com simple](http://f.cl.ly/items/0C1M0b1F303a1O1J2H2g/Screen%20shot%202012-09-08%20at%2010.29.47%20AM.png)

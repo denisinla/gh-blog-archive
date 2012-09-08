@@ -12,3 +12,11 @@ Have fun !
 
 
 _Special thanks to [Zeke Sikelianos](http://github.com/zeke) for the inspiration and wordnik documentation, because if all fails, READ THE MANUAL !_ o.O
+
+---
+
+**_UPDATE_**  
+Thanks for the retweet from [@fehguy](http://www.twitter.com/fehguy) (Tony Tam)
+
+<blockquote class="twitter-tweet tw-align-center"><p>nice! RT @<a href="https://twitter.com/denisinla">denisinla</a>: Wordnik Chrome extension(source included) - <a href="http://t.co/iZJyMuZi" title="http://bit.ly/SfnyQu">bit.ly/SfnyQu</a> <a href="https://twitter.com/search/%23miniprojects">#miniprojects</a></p>&mdash; Tony Tam (@fehguy) <a href="https://twitter.com/fehguy/status/244180159559778304" data-datetime="2012-09-07T21:07:41+00:00">September 7, 2012</a></blockquote>
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
