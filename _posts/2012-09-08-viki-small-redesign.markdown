@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Viki.com simple mockup
+subtitle: Mockup a "simplified" version of Viki sans the intensive graphics that currently reside on their site.
+tags: design
 ---
 
 ![Viki.com simple](http://f.cl.ly/items/0C1M0b1F303a1O1J2H2g/Screen%20shot%202012-09-08%20at%2010.29.47%20AM.png)

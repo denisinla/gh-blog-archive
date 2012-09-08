@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to install Sublime Text 2 on Fedora 17
+tags: sublimetext2 - fedora17
 ---
 
 **Add repository to yum**  

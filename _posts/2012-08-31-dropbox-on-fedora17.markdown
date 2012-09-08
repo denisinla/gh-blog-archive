@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dropbox on Fedora 17
+tags: dropbox - fedora17
 ---
 
 ![Fedora 17](http://media.tumblr.com/tumblr_m9mc8qC4TY1qz7r46.jpg)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Trajan zsh theme
+tags: zsh - theme - universal
 ---
 
 ![Trajan zsh theme](https://raw.github.com/dkabistan/trajan-zsh-theme/master/trajan.zsh-theme.png)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wordnik chrome extension
+tags: chrome - javascript - html5 - css3
 ---
 
 ![Wordnik Chrome extension](https://a248.e.akamai.net/camo.github.com/0983e3fe947a3cefebbbd067351da2d60122d07d/687474703a2f2f662e636c2e6c792f6974656d732f314c3165337331493341306b31793348314a31632f776f72646e696b2d6368726f6d652d657874656e73696f6e2e706e67)
