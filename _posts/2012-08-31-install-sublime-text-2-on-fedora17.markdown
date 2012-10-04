@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to install Sublime Text 2 on Fedora 17
+title: Install Sublime Text 2 on Fedora 17
 tags: sublimetext2 - fedora17
 ---
 
