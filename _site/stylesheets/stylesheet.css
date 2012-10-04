@@ -49,13 +49,12 @@ table {
 /* LAYOUT STYLES */
 
 /* Import a new style for fonts */
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 body {
   font-size: 0.9em;
   line-height: 1.5; 
   background: #fff;
-  font-family: Lato, 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: 300;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   color: #6d6d6d;
@@ -398,10 +397,41 @@ footer a:hover {
 /* Related Content */
 .related{
   margin: 0 auto;
-  width: 620px;
+  width: 400px;
 }
 .tags{
   color: #aaa;
   font-style: italic;
   font-size: 0.9em;
+}
+
+/* Header Styles */
+.circ-img {
+  margin: 20px auto;
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url('/images/volcanoes.png') no-repeat;
+  position:relative;
+  }
+/* Drag Off Image */
+.circ-img img{
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+.circ-img a{
+  display: block;
+  width: 300px;
+  height: 300px;
+}
+.circ-img .overlay{
+  position: absolute;
+  top: 95px;
+  left: 20px;
+  z-index: 1;
+  font: 100 72px/72px "lato", sans-serif;
+  text-transform: uppercase;
+  color: #fff;
 }
