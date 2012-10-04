@@ -11,13 +11,17 @@ After trying to install macvim via brew I kept on getting build errors(and I was
 **Installation**
 
 Downloaded MacVim via [GitHub](https://github.com/b4winckler/macvim/downloads).  
-Installed the traditional way(moved **MacVim** app and **mvim** into _/Applications_)     
+
+Installed the traditional way(moved **MacVim** app and **mvim** into _/Applications_)    
+ 
 You should now have both the **MacVim** app and **mvim** placed inside of _/Applications_.
 
 **PATH Configuration** 
  
 Since my shell of choice is **zsh** my $PATH configuration happens in **~/.zshrc**.  
+
 Typed the following: ``$ export PATH=/Applications:$PATH``   
+
 _this added **/Applications** directory where **mvim** resides into my PATH._
 
 
